@@ -1,0 +1,12 @@
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/scripts/TestScripts.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/pages/login/LoginPage.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/pages/home/HomePage.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/utilities/GenerateReports.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/pages/base/BasePage.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/scripts/TestExtentReport.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/basetest/BaseAutomation.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/utilities/CommonUtilities.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/utilities/Constants.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/pages/login/ForgotPasswordPage.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/runner/SalesforceRunner.java
+/Users/pratimapujar/eclipse-workspace/SalesforceAutomationCucumberFramework/src/test/java/com/salesforce/automation/stepDef/salesforceStepDef.java
